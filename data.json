@@ -1,0 +1,317 @@
+{
+  "itinerari": [
+    {
+      "id": "Campagna_Dickens_Scrittori",
+      "nome": "Ombre sull'Urbe",
+      "sottotitolo": "Luci e tenebre della Città Eterna negli occhi di Dickens",
+      "personaggio": {
+        "nome": "Charles Dickens",
+        "anni": "1812-1870",
+        "professione": "Scrittore",
+        "nazionalita": "Inglese",
+        "biografia_breve": "Charles Dickens è stato il più grande romanziere dell'epoca vittoriana. Celebre per capolavori come Oliver Twist, esplorò l’Italia nel 1845, descrivendo Roma in Pictures from Italy con uno sguardo unico, sospeso tra cronaca sociale e fascino per il macabro.",
+        "immagine": "img/copertina.jpg",
+        "opere_correlate": [
+          "Pictures from Italy (1846)",
+          "The Letters of Charles Dickens (1844-1845)",
+          "Little Dorrit (1857)"
+        ]
+      },
+      "tema": "Letteratura di Viaggio - Tour Macabro",
+      "categoria": "Arte e Scrittura",
+      "durata_totale_ore": 8,
+      "difficolta": "facile",
+      "immagine_copertina": "PasseggiateRomane_Respighi_demo/img/copertina.jpg",
+      "distanza_totale_km": 4.5,
+      "periodo_consigliato": "Primavera/Autunno (temperature miti)",
+      "stagione_migliore": ["marzo", "aprile", "maggio", "settembre", "ottobre"],
+      "descrizione": "Sulle tracce di Charles Dickens: un viaggio nella Roma Noir del 1846. Un percorso interamente a piedi che lega il fascino decadente delle rovine alla solennità dei luoghi della morte, culminando nella maestosità del Colosseo (illuminato dalla luna).",
+      "note_logistiche": "Per un'esperienza ottimale, pianifica il tour durante i mesi dell'ora solare per ammirare il Colosseo avvolto nel buio già nel tardo pomeriggio. Indossa scarpe comode per i 4 km di cammino, prenota gli ingressi per la Cripta e le Case del Celio e non dimenticare una sosta rigenerante per un aperitivo prima del gran finale notturno.",
+      "accessibilita": "L'itinerario è interamente percorribile a piedi in circa 60-70 minuti di cammino effettivo",
+      "costo_stimato": "Circa 20€ comprensivo di entrata nella Cripta e nelle Cave e dell'offerta libera nel caso si volesse accedere alla Chiesa di San Giovanni Decollato.",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "Cripta_dei_Frati_Cappuccini",
+          "orario_consigliato": "11:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 60,
+          "coordinate": [41.9049618, 12.4885354],
+          "nome": "Cripta dei Frati Cappuccini",
+          "descrizione_breve": "Migliaia di ossa incastrate nei muri e scheletri vestiti da frati: un inizio shock che presenta il lato più crudo di Roma.",
+          "indicazioni_arrivo": "Metro A fermata Barberini. Uscita su Via Veneto. La Cripta si trova a meno di 100 metri dalla stazione. In alternativa, Bus 61, 62, 492 (Fermata Barberini). Apertura biglietteria alle ore 9:30.",
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Poema Sinfonico Op. 40",
+              "brano_completo": "Danse Macabre",
+              "compositore": "Camille Saint-Saëns",
+              "durata_sec": 420,
+              "tonalita": "Sol minore",
+              "organico": "Orchestra sinfonica con violino solista",
+              "anno_composizione": 1874,
+              "descrizione_musicale": "Il brano evoca la Morte che suona il violino in un cimitero a mezzanotte. Il ticchettio dello xilofono imita il suono delle ossa che danzano, perfetto per l'atmosfera della Cripta.",
+              "spotify_url": "Cripta_dei_Frati_Cappuccini.mp3",
+              "youtube_url": "Cripta_dei_Frati_Cappuccini.mp3",
+              "url": "https://ia800902.us.archive.org/29/items/Saint-saensDanseMacabre/Saint-Saens-DanseMacabre.mp3",
+              "note_ascolto": "Fai partire il brano appena entri nella prima cappella. Ascolta il suono dello xilofono mentre osservi le decorazioni ossee sulle pareti."
+            },
+            "letteratura": {
+              "citazione": "I padri defunti sono sistemati in nicchie, vestiti con i loro abiti monastici, come se fossero ancora vivi in attesa di un segnale.",
+              "autore": "Charles Dickens",
+              "opera": "Pictures from Italy",
+              "anno": 1846,
+              "contesto": "Dickens descrive lo stupore e il fascino grottesco provato visitando le sei cappelle sotterranee decorate con i resti di circa 4000 frati."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "soffusa, filtrata dalle piccole finestre, con candele",
+              "suoni_ambiente": [
+                "silenzio riverente",
+                "eco dei passi sul pavimento in pietra",
+                "sussurri dei visitatori"
+              ],
+              "temperatura_stimata": "16-19°C (ambiente fresco sotterraneo)",
+              "affollamento": "medio (consigliata prenotazione)",
+              "consiglio_fotografico": "Immergiti nel silenzio. Dickens fu colpito dall'ironia macabra delle ossa: l'AI ti suggerisce di osservare non la morte, ma l'ordine e la simmetria della loro disposizione. Cosa ti comunica il contrasto tra vita e geometria?",
+              "emozione_target": "Shock, riflessione, fascino grottesco"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Barocco",
+              "architetti": ["Antonio Casoni"],
+              "anno_costruzione": "1626-1631",
+              "committente": "Cardinale Antonio Barberini",
+              "descrizione": "Sei cappelle decorate con le ossa di circa 4.000 frati cappuccini disposte in motivi ornamentali."
+            }
+          },
+          "storia": "La cripta serviva come luogo di riflessione sulla morte. I frati venivano sepolti qui e, una volta decomposti, le loro ossa venivano usate per creare le decorazioni.",
+          "curiosita": "Dickens rimase colpito dal fatto che alcuni scheletri indossassero ancora il saio, sembrando quasi vivi nella loro macabra posa.",
+          "metadata": {
+            "accessibilita": "ingresso a pagamento (€10)",
+            "orari_standard": "09:30-19:00 (ultimo ingresso 18:30)",
+            "servizi": ["toilette", "bookshop", "audioguida", "ascensore"]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "San_Giovanni_Decollato",
+          "orario_consigliato": "14:45",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 45,
+          "coordinate": [41.8897528, 12.4819624],
+          "nome": "Chiesa di San Giovanni Decollato",
+          "descrizione_breve": "Un angolo silenzioso dove un tempo i condannati passavano l'ultima notte. Qui si respira ancora l'atmosfera cupa della giustizia di una volta.",
+          "indicazioni_arrivo": "Scendi Via Veneto fino a Piazza Barberini, percorri Via del Tritone e attraversa Via del Corso verso Piazza Venezia. Prosegui dietro il Campidoglio, scendendo verso il Velabro (circa 25 min a piedi).",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "25 min",
+            "metro": "12 min (Barberini -> Colosseo + 10 min a piedi)",
+            "distanza_km": 2.1
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Marcia al Supplizio",
+              "brano_completo": "Symphonie Fantastique, Op. 14 - IV. Marche au supplice",
+              "compositore": "Hector Berlioz",
+              "durata_sec": 270,
+              "tonalita": "Sol minore",
+              "descrizione_musicale": "Il brano descrive un uomo condannato che cammina verso il patibolo. Il ritmo incalzante e il colpo finale di ghigliottina rendono l'ascolto perfetto per questo luogo.",
+              "strumenti_protagonisti": ["trombe", "archi", "tromboni", "timpani", "timpani"],
+              "carattere": "Drammatico, incalzante, grottesco",
+              "spotify_url": "https://open.spotify.com/intl-it/track/78j9wXpOjXv7zLfLDvSQSy",
+              "youtube_url": "https://www.youtube.com/watch?v=MQEh1HN2CKU&list=RDMQEh1HN2CKU&start_radio=1",
+              "note_ascolto": "Ascolta il brano mentre ti avvicini alla chiesa, immaginando il cupo corteo dei condannati."
+            },
+            "letteratura": {
+              "citazione": "Era una scena terribile. Il condannato, i frati neri con le torce, e quella folla che aspettava in un silenzio di morte.",
+              "autore": "Charles Dickens",
+              "opera": "Pictures from Italy",
+              "anno": 1846,
+              "contesto": "Dickens descrive l'orrore delle esecuzioni pubbliche a Roma, ricordando il ruolo della Confraternita che aveva sede proprio qui."
+            },
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "Ombre lunghe degli edifici circostanti",
+              "suoni_ambiente": [
+                "Vento tra i vicoli",
+                "Rintocchi di campane in lontananza",
+                "Silenzio irreale lontano dal traffico"
+              ],
+              "temperatura_stimata": "18-22°C (zona ventilata vicino al Tevere)",
+              "affollamento": "Molto basso (luogo fuori dai giri turistici)",
+              "consiglio_fotografico": "La facciata custodisce ricordi di condannati. Fermati davanti al portone: l'AI ricostruisce per te la folla descritta da Dickens durante le esecuzioni. Inquadra le ombre sul terreno per sentire il peso della storia. ",
+              "emozione_target": "Inquietudine, rispetto storico, curiosità noir"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Manierismo",
+              "architetto": "Battista Franco, Jacopino del Conte",
+              "anno_costruzione": "1535-1555",
+              "committente": "Arciconfraternita di San Giovanni Decollato",
+              "materiali": "laterizio, travertino, bitume catramato",
+              "altezza_m": 20,
+              "descrizione": "Complesso sobrio ed elegante, famoso per l'Oratorio e il Chiostro con le fosse di sepoltura dei giustiziati."
+            }
+          },
+          "storia": "Sede della Confraternita dei Neri, che assisteva spiritualmente i condannati a morte e ne seppelliva i resti nel chiostro interno.",
+          "curiosita": "Qui veniva conservato il canestro che raccoglieva le teste tagliate dalla ghigliottina, oggetto che Dickens cercò con macabra curiosità.",
+          "metadata": {
+            "accessibilita": "Esterno gratuito. Interno raramente aperto.",
+            "orari_standard": "Visibile esternamente H24. Interno solo 24 Giugno.",
+            "servizi": ["Punto informativo digitale (App)", "Panchine nelle vicinanze"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "Cave_Tempio_Claudio",
+          "orario_consigliato": "16:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 60,
+          "coordinate": [41.886351, 12.4918484],
+          "nome": "Cave del Tempio di Claudio",
+          "descrizione_breve": "Un labirinto di pietra scavato nel ventre del Celio. Qui il silenzio è rotto solo dal gocciolio dell'acqua nelle cisterne romane.",
+          "indicazioni_arrivo": "Dalla Tappa 2, percorri Via di San Teodoro costeggiando il Palatino, attraversa l'Arco di Costantino e risali il Clivo di Scauro (circa 15 min a piedi).",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "15 min",
+            "distanza_km": 1.10
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Andante misterioso",
+              "brano_completo": "I Pini di Roma - II. I Pini presso una Catacomba",
+              "compositore": "Ottorino Respighi",
+              "durata_sec": 400,
+              "tonalita": "Fa diesis minore",
+              "descrizione_musicale": "Le note basse dell'organo sembrano vibrare direttamente dalle pareti di tufo. È il suono del vuoto e della profondità.",
+              "carattere": "Ipnotico, cupo, monumentale.",
+              "spotify_url": "https://open.spotify.com/intl-it/track/2tgrcYRlgaZpTixOSfkJpF",
+              "youtube_url": "https://www.youtube.com/watch?v=r3uJLjZGDyA&list=RDr3uJLjZGDyA&start_radio=1",
+              "note_ascolto": "Ascolta il brano mentre cammini lungo i corridoi di tufo, lasciando che i bassi dell'organo si fondano con l'oscurità delle cave."
+            },
+            "letteratura": {
+              "citazione": "Sembra di scendere nelle viscere di un mondo dimenticato, dove le pietre hanno ancora una voce terribile.",
+              "autore": "Charles Dickens",
+              "opera": "Pictures from Italy",
+              "anno": 1846,
+              "contesto": "Dickens descrive il contrasto tra la luce di Roma e l'oscurità dei suoi sotterranei, dove la storia si fa fisica e opprimente."
+            },
+            "atmosfera": {
+              "momento": "pomeriggio",
+              "luce": "Tagliente, fasci di luce che filtrano dai lucernari nell'oscurità",
+              "suoni_ambiente": [
+                "Echi profondi",
+                "Caduta di gocce d'acqua",
+                "Fruscio del vento nei cunicoli"
+              ],
+              "temperatura_stimata": "14-16°C (umidità elevata, molto fresco)",
+              "affollamento": "Molto basso (visite solo su prenotazione/gruppi)",
+              "consiglio_fotografico": "Dickens cercava il brivido dell'oscurità. L'AI ti invita a spegnere la torcia dello smartphone e a mappare il vuoto dei sotterranei, sincronizzando lo scatto con il riverbero dell'organo nella traccia musicale.",
+              "emozione_target": "Stupore archeologico, senso di isolamento dal mondo."
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Ingegneria estrattiva romana",
+              "architetto": "Maestranze imperiali flavie",
+              "anno_costruzione": "I secolo d.C.",
+              "committente": "Agrippina Minore / Vespasiano",
+              "dimensioni": "Circa 15 metri sotto il piano del Tempio",
+              "descrizione": "Vasti ambienti scavati per estrarre materiali da costruzione e successivamente riutilizzati come cisterne idriche."
+            }
+          },
+          "storia": "Queste cave servirono alla costruzione del Tempio di Claudio e poi del Colosseo stesso. Rappresentano la fabbrica sotterranea di Roma.",
+          "curiosita": "Durante la Seconda Guerra Mondiale queste cave sono state usate dai romani come rifugio antiaereo.",
+          "metadata": {
+            "accessibilita": "Ingresso limitato (visite guidate €10), fondo sconnesso e scivoloso.",
+            "orari_standard": "Solo su prenotazione specifica.",
+            "servizi": ["Visita guidata specialistica"]
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "Colosseo_Notturno",
+          "orario_consigliato": "18:45",
+          "momento_giornata": "sera",
+          "durata_visita_min": 45,
+          "coordinate": [41.8902102, 12.4922309],
+          "nome": "Colosseo",
+          "descrizione_breve": "Senza la folla dei turisti e avvolto dal buio, il Colosseo smette di essere un monumento e diventa un gigante solitario che mette i brividi.",
+          "indicazioni_arrivo": "Dalle Cave del Tempio di Claudio (Tappa 3), scendi lungo Via Claudia o Via Capo d'Africa in direzione Piazza del Colosseo.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "5-10 min",
+            "metro_piedi": "non necessario",
+            "distanza_km": 0.4
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "movimento": "Adagio molto",
+              "brano_completo": "Sinfonia n. 7 in La maggiore, Op. 92 - II. Allegretto",
+              "compositore": "Ludwig van Beethoven",
+              "durata_sec": 540,
+              "tonalita": "La minore → La maggiore",
+              "descrizione_musicale": "Un ritmo di marcia funebre ipnotico e malinconico che cresce in intensità, riflettendo la maestosità e la decadenza delle rovine romane.",
+              "carattere": "Solenne, tragico, monumentale",
+              "spotify_url": "https://open.spotify.com/intl-it/track/7Ik4wCY99jGYBUfpr585fj",
+              "youtube_url": "https://www.youtube.com/watch?v=vCHREyE5GzQ&list=RDvCHREyE5GzQ&start_radio=1",
+              "note_ascolto": "Inizia l'ascolto mentre ti avvicini all'Arco di Costantino. Fermati davanti al Colosseo quando la musica raggiunge il suo culmine."
+            },
+            "letteratura": {
+              "citazione": "È l'incarnazione di tutto ciò che è solenne e maestoso. È un fantasma di marmo che riempie l'anima di un terrore reverenziale.",
+              "autore": "Charles Dickens",
+              "opera": "Pictures from Italy",
+              "anno": 1846,
+              "contesto": "Dickens consigliava caldamente di visitare il Colosseo di notte, lontano dalla confusione, per comprenderne la vera essenza."
+            },
+            "atmosfera": {
+              "momento": "tardo pomeriggio/sera",
+              "luce": "Oscurità profonda contrastata dall'illuminazione artificiale dei fari",
+              "suoni_ambiente": [
+                "Vento che fischia tra le arcate",
+                "Silenzio della zona pedonale",
+                "Eco di passi lontani"
+              ],
+              "temperatura_stimata": "12-15°C (umidità serale tipica di Roma)",
+              "affollamento": "Basso (rispetto alle ore diurne)",
+              "consiglio_fotografico": "Non guardarlo come un monumento, ma come una rovina imponente. L'AI ti consiglia di osservare le arcate illuminate mentre ascolti Beethoven: inquadra dal basso verso l'alto per comprendere al meglio il concetto di 'fantasma gotico' presentato da Dickens.",
+              "emozione_target": "Solennità, malinconia, stupore"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Architettura romana imperiale",
+              "anno_costruzione": "70-80 d.C.",
+              "committente": "Vespasiano / Tito (Dinastia Flavia)",
+              "descrizione": "Il più grande anfiteatro del mondo, simbolo eterno di Roma, caratterizzato da tre ordini di arcate sovrapposte.",
+              "dimensioni": "48-50 metri di altezza"
+            }
+          },
+          "storia": "ostruito per offrire spettacoli di gladiatori e cacce, è rimasto nei secoli come rovina romantica, cava di materiali e infine monumento sacro.",
+          "curiosita": "Dickens scriveva che guardare il Colosseo di giorno era un errore; solo la luna o l'oscurità potevano restituirgli la sua vera dignità.",
+          "metadata": {
+            "accessibilita": "Completamente accessibile (piazza pedonale piana)",
+            "orari_standard": "Visibile esternamente H24",
+            "orari_speciali_visita": "Visita interna guidata disponibile solo su prenotazione anticipata online, con supplemento di costo rispetto alla visita diurna",
+            "servizi": ["Metro B Colosseo", "Punti panoramici", "Taxi nelle vicinanze"]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "esempio_encoded_string",
+        "colore_percorso": "#e74c3c",
+        "stile_linea": "dashed"
+      },
+      "consigli_pratici": [
+        "Portare borraccia d'acqua (fontanelle romane presenti lungo il Velabro e al Celio)",
+        "Scarpe comode obbligatorie (4.5 km a piedi tra vicoli e sanpietrini)",
+        "Sciarpa o giacca leggera per le tappe ipogee e in caso di visita nei mesi meno caldi (Cripta e Cave hanno temperature basse)",
+        "Cuffie di buona qualità per l'ascolto immersivo dei brani cardine della passeggiata",
+        "Prenotare in anticipo l'ingresso alla Cripta dei Cappuccini e la visita guidata alle Cave",
+        "Pianificare la pausa pranzo in zona Trevi/Pantheon per ricaricare le energie e una pausa aperitivo prima dell'ultima tappa"
+      ],
+      "migliore_periodo_anno": "Primavera-autunno, meglio se con ora solare per godere della vista notturna del Colosseo",
+      "sconsigliato": ["Piena estate (troppo caldo per la salita al Celio a metà pomeriggio)", "Domenica mattina (più affollato e le chiese dell'itinerario potrebbero avere orari ridotti per le funzioni)"],
+      "cosa_portare": [
+        "Smartphone con app mappe e batteria carica",
+        "Cuffie/auricolari per l'esperienza musicale",
+        "Bottiglia acqua",
+        "Biglietto digitale o prenotazione cartacea per le tappe 1 e 3",
+        "Power bank (essenziale per l'uso prolungato del GPS e della musica)",
+        "Ombrello compatto in caso di pioggia",
+        "Torcia tascabile (opzionale, utile per i dettagli meno illuminati delle Cave)"
+      ]
+    }
+  ]
+}
